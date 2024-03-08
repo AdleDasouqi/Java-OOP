@@ -25,10 +25,10 @@
 </ol>
 
 <h3>How to Use This Repository</h3>
-<ol style="list-style: disc;">
+<ul>
     <li>Browse through the different sections to gain a comprehensive understanding of OOP in Java.</li>
     <li>Study the explanations, examples, and projects to deepen your knowledge and skills in OOP principles and practices.</li>
-</ol>
+</ul>
 
 <h4>Get Started 🧑🏻‍💻</h4>
 <p>
