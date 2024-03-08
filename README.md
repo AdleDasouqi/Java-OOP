@@ -2,7 +2,7 @@
 
 
 <p>
-    Welcome to the Java Object-Oriented Programming (OOP) repository!<br>
+    Welcome to the Java Object-Oriented Programming (OOP) repository!
     This repository is designed to be a comprehensive resource for learning and mastering OOP concepts and practices using Java.
 </p>
 
@@ -11,8 +11,8 @@
 <br>
 
 <p>
-This repository contains examples, exercises, and projects demonstrating Object-Oriented Programming (OOP) principles and practices in Java.<br>
-It covers essential concepts such as classes, objects, inheritance, polymorphism, encapsulation, and more.<br>
+This repository contains examples, exercises, and projects demonstrating Object-Oriented Programming (OOP) principles and practices in Java.
+It covers essential concepts such as classes, objects, inheritance, polymorphism, encapsulation, and more.
 Additionally, it includes implementations of common design patterns and best practices for writing maintainable and scalable Java code using OOP.
 </p>
 
