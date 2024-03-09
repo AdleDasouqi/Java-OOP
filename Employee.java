@@ -1,12 +1,10 @@
 public class Employee {
-
     // Properties or attributes of the Employee class
     String fullName;
     int age;
     double salary;
     String department;
     
-
     // methods to set firstName, age, salary and departmenet of the Employee class
     public void setFullName(String fullName) {
         this.fullName = fullName ;

@@ -7,7 +7,7 @@ public class MainEmployee {
         // Setting the attributes
         employee.setFullName("Riya Sharma");
         employee.setAge(25);
-        employee.setSalary(600.25);
+        employee.setSalary(600.24);
         employee.setDepartment("IT");
 
         // Printing values
