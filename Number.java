@@ -34,5 +34,6 @@ class MaximumNumber {
        variables and methods.
        Differentiate the instance variables from local variables if they have same names, 
        within a constructor or a method.
+     * The keyword this is used only within instance methods or constructors.
     */
 }

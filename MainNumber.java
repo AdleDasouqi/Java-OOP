@@ -12,7 +12,8 @@ public class MainNumber {
         int minNumber = 17;
        
         MaximumNumber objMaximumNumber = new MaximumNumber();
-        
+
+        // Accessing and calling methods of Number class with static keyword.
         int maximumNumber = objMaximumNumber.findMaxNumber(maxNumber, minNumber);
         System.out.println("Maximum Value: " + maximumNumber);
     }
