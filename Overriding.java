@@ -3,7 +3,7 @@ public class Overriding {
         // Animal reference and object
         Animal animal = new Animal();
         // Animal reference but Dog object
-        Animal dog = new Dog();
+        Animal dog = new Dog(); // Dynamic Binding	 
 
         animal.move();
         dog.move();
@@ -51,4 +51,9 @@ class Dog extends Animal {
 
 * Method Overriding: Using the super Keyword
   When invoking a superclass version of an overridden method the super keyword is used.
+
+* Dynaimc Binding
+  Dynamic binding refers to the process in which linking between method call and method implementation 
+  is resolved at run time (or, a process of calling an overridden method at run time).
+  Dynamic binding is also known as run-time polymorphism or late binding.
 */
