@@ -6,6 +6,7 @@ public class Overloading {
 }
 
 class Calculate {
+    // Static Binding
     public static int product(int num1, int num2) {
         return num1 * num2;
     } 
@@ -21,4 +22,7 @@ class Calculate {
    but with different parameters. These methods can have the same name but must have different parameter lists. 
    Method overloading improves the code readability and reduces code redundancy. Method overloading also helps 
    to achieve compile-time polymorphism. 
+
+* Static Binding
+  Static binding is also known as compile-time binding or early binding. 
 */
